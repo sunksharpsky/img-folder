@@ -33,7 +33,7 @@ i
 
 **里程数据统计包含的信息：**
 
-![里程统计](/home/sk/TestCases/Loshu-lite_TestCases/里程统计.png)
+![里程统计](https://github.com/sunksharpsky/img-folder/blob/master/%E9%87%8C%E7%A8%8B%E7%BB%9F%E8%AE%A1.png)
 
   1）当天，本周(第一天为星期天)，本月(第一天为当月一号)的自动驾驶里程(单位：KM)。
 
